@@ -24,6 +24,7 @@ body {
   
   .input-area {
     margin-top: 20px;
+
   }
   
   .input-box {
@@ -117,3 +118,4 @@ body {
   .second-line a:hover {
     text-decoration: underline;
   }
+  
